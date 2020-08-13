@@ -1,7 +1,7 @@
 ### Hi there, I'm Tarun 👋
 
 ## I'm a Full-Stack Developer!
-> Hi I'm Tarun. An experienced Full Stack Developer with 5 Years of Experience. I'm passionate about coding and learning new languages. I've comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications. I would say that I'm an innovative change agent with a unique mix of high-level technology direction with deep technical expertise.
+> I'm an experienced Full Stack Developer with 5 Years of Experience. I'm passionate about coding and learning new languages. I've comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications. I would say that I'm an innovative change agent with a unique mix of high-level technology direction with deep technical expertise.
 
 - 🔭 I’m currently working on a **Chat App**
 - 🌱 I’m currently learning React and React Native 🤣
