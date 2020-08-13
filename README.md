@@ -1,7 +1,7 @@
 ### Hi there, I'm Tarun 👋
 
 ## I'm a Full-Stack Developer!
-> Hi I'm Tarun. An experienced Full Stack Developer with 5 Years of Experience. I'm passionate about coding and learning new languages. I've comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications. I would say that I'm an innovative change agent with a unique mix of high-level technology direction with deep technical expertise.
+> I'm an experienced Full Stack Developer with 5 Years of Experience. I'm passionate about coding and learning new languages. I've comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications. I would say that I'm an innovative change agent with a unique mix of high-level technology direction with deep technical expertise.
 
 - 🔭 I’m currently working on a **Chat App**
 - 🌱 I’m currently learning React and React Native 🤣
@@ -22,53 +22,53 @@
 ### Languages and Tools:
 
 #### 📜 Backend
-<img align="left" height="60px" src="./assets/nodejs.png" />
-<img align="left" height="60px" src="./assets/socketio.png" />
-<img align="left" height="60px" src="./assets/express.png" />
-<img align="left" height="60px" src="./assets/graphql.png" />
-<img align="left" height="60px" src="./assets/php.png" />
-<img align="left" height="60px" src="./assets/laravel.webp" />
-<img align="left" height="60px" src="./assets/codeigniter.webp" />
-<img align="" height="60px" src="./assets/wordpress.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/nodejs.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/socketio.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/express.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/graphql.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/php.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/laravel.webp" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/codeigniter.webp" />
+<img align="" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/wordpress.png" />
 
 <br />
 
 #### 💻 Frontend
-<img align="left" height="60px" src="./assets/angular.png" />
-<img align="left" height="60px" src="./assets/react.png" />
-<img align="" height="60px" src="./assets/jquery.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/angular.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/react.png" />
+<img align="" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/jquery.png" />
 
 <br />
 
 #### 💽 Databases
-<img align="left" height="60px" src="./assets/mysql.png" />
-<img align="left" height="60px" src="./assets/postgre.png" />
-<img align="" height="60px" src="./assets/mongodb.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/mysql.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/postgre.png" />
+<img align="" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/mongodb.png" />
 
 <br />
 
 #### 📱 Mobile Apps
-<img align="left" height="60px" src="./assets/ionic.png" />
-<img align="" height="60px" src="./assets/react-native.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/ionic.png" />
+<img align="" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/react-native.png" />
 
 <br />
 
 #### 🌐 Cloud
-<img align="" height="60px" src="./assets/aws.png" />
+<img align="" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/aws.png" />
 
 <br />
 
 #### 🩹 Testing
-<img align="left" height="60px" src="./assets/mocha.png" />
-<img align="" height="60px" src="./assets/enzym.jpeg" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/mocha.png" />
+<img align="" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/enzym.jpeg" />
 
 <br />
 
 #### 🎛 Cuz it's mentioned in JD
-<img align="left" height="60px" src="./assets/html.png" />
-<img align="left" height="60px" src="./assets/css.png" />
-<img align="left" height="60px" src="./assets/sass.png" />
-<img align="" height="60px" src="./assets/javascript.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/html.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/css.png" />
+<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/sass.png" />
+<img align="" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/javascript.png" />
 
 ---
 
