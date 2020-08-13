@@ -22,58 +22,58 @@
 ### Languages and Tools:
 
 #### 📜 Backend
-<img align="left" width="40px" src="./assets/nodejs.png" />
-<img align="left" width="100px" src="./assets/socketio.png" />
-<img align="left" width="80px" src="./assets/express.png" />
-<img align="left" width="40px" src="./assets/graphql.png" />
-<img align="left" width="40px" src="./assets/php.png" />
-<img align="left" width="40px" src="./assets/laravel.webp" />
-<img align="left" width="40px" src="./assets/codeigniter.webp" />
-<img align="" width="40px" src="./assets/wordpress.png" />
+<img align="left" height="60px" src="./assets/nodejs.png" />
+<img align="left" height="60px" src="./assets/socketio.png" />
+<img align="left" height="60px" src="./assets/express.png" />
+<img align="left" height="60px" src="./assets/graphql.png" />
+<img align="left" height="60px" src="./assets/php.png" />
+<img align="left" height="60px" src="./assets/laravel.webp" />
+<img align="left" height="60px" src="./assets/codeigniter.webp" />
+<img align="" height="60px" src="./assets/wordpress.png" />
 
 <br />
 <br />
 
 #### 💻 Frontend
-<img align="left" width="40px" src="./assets/angular.png" />
-<img align="left" width="40px" src="./assets/react.png" />
-<img align="left" width="40px" src="./assets/jquery.png" />
+<img align="left" height="60px" src="./assets/angular.png" />
+<img align="left" height="60px" src="./assets/react.png" />
+<img align="" height="60px" src="./assets/jquery.png" />
 
 <br />
 <br />
 
 #### 💽 Databases
-<img align="left" width="40px" src="./assets/mysql.png" />
-<img align="left" width="40px" src="./assets/postgre.png" />
-<img align="" width="40px" src="./assets/mongodb.png" />
+<img align="left" height="60px" src="./assets/mysql.png" />
+<img align="left" height="60px" src="./assets/postgre.png" />
+<img align="" height="60px" src="./assets/mongodb.png" />
 <br />
 <br />
 
 #### 📱 Mobile Apps
-<img align="left" width="40px" src="./assets/ionic.png" />
-<img align="" width="40px" src="./assets/react-native.png" />
+<img align="left" height="60px" src="./assets/ionic.png" />
+<img align="" height="60px" src="./assets/react-native.png" />
 
 <br />
 <br />
 
 #### 🌐 Cloud
-<img align="" width="40px" src="./assets/aws.png" />
+<img align="" height="60px" src="./assets/aws.png" />
 
 <br />
 <br />
 
 #### 🩹 Testing
-<img align="left" width="40px" src="./assets/mocha.png" />
-<img align="" width="40px" src="./assets/enzym.jpeg" />
+<img align="left" height="60px" src="./assets/mocha.png" />
+<img align="" height="60px" src="./assets/enzym.jpeg" />
 
 <br />
 <br />
 
 #### 🎛 Cuz it's mentioned in JD
-<img align="left" width="40px" src="./assets/html.png" />
-<img align="left" width="40px" src="./assets/css.png" />
-<img align="left" width="40px" src="./assets/sass.png" />
-<img align="" width="40px" src="./assets/javascript.png" />
+<img align="left" height="60px" src="./assets/html.png" />
+<img align="left" height="60px" src="./assets/css.png" />
+<img align="left" height="60px" src="./assets/sass.png" />
+<img align="" height="60px" src="./assets/javascript.png" />
 
 ---
 
