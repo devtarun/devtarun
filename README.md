@@ -32,7 +32,6 @@
 <img align="" height="60px" src="./assets/wordpress.png" />
 
 <br />
-<br />
 
 #### 💻 Frontend
 <img align="left" height="60px" src="./assets/angular.png" />
@@ -40,13 +39,12 @@
 <img align="" height="60px" src="./assets/jquery.png" />
 
 <br />
-<br />
 
 #### 💽 Databases
 <img align="left" height="60px" src="./assets/mysql.png" />
 <img align="left" height="60px" src="./assets/postgre.png" />
 <img align="" height="60px" src="./assets/mongodb.png" />
-<br />
+
 <br />
 
 #### 📱 Mobile Apps
@@ -54,19 +52,16 @@
 <img align="" height="60px" src="./assets/react-native.png" />
 
 <br />
-<br />
 
 #### 🌐 Cloud
 <img align="" height="60px" src="./assets/aws.png" />
 
-<br />
 <br />
 
 #### 🩹 Testing
 <img align="left" height="60px" src="./assets/mocha.png" />
 <img align="" height="60px" src="./assets/enzym.jpeg" />
 
-<br />
 <br />
 
 #### 🎛 Cuz it's mentioned in JD
