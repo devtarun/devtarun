@@ -3,10 +3,9 @@
 ## I'm a Full-Stack Developer!
 > I'm an experienced Full Stack Developer with 5 Years of Experience. I'm passionate about coding and learning new languages. I've comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications. I would say that I'm an innovative change agent with a unique mix of high-level technology direction with deep technical expertise.
 
-- 🔭 I’m currently working on a **Chat App**
-- 🌱 I’m currently learning React and React Native 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to work on UI/UX
+- 🌱  I’m currently learning Electron 🤣
+- 🥅  2020 Goals: Contribute more to Open Source projects. And be safe
+-  ⚡ Fun fact: I love to work on UI/UX
 
 ### Connect with me:
 
