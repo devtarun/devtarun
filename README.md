@@ -1,10 +1,10 @@
 ### Hi there, I'm Tarun 👋
 
 ## I'm a Full-Stack Developer!
-> I'm an experienced Full Stack Developer with 5 Years of Experience. I'm passionate about coding and learning new languages. I've comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications. I would say that I'm an innovative change agent with a unique mix of high-level technology direction with deep technical expertise.
+> I'm an experienced Full Stack Developer with 7+ Years of Experience. I'm passionate about coding and learning new languages. I've comprehensive knowledge of platform development, enterprise architecture, agile methodologies, cloud services, and web-based applications. I would say that I'm an innovative change agent with a unique mix of high-level technology direction with deep technical expertise.
 
 - 🌱  I’m currently learning Electron 🤣
-- 🥅  2022 Goals: Contribute more to Open Source projects. And be safe
+- 🥅  2022 Goals: Be safe
 -  ⚡ Fun fact: I love to work on UI/UX
 
 ### Connect with me:
@@ -21,15 +21,10 @@
 <img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/socketio.png" />
 <img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/express.png" />
 <img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/graphql.png" />
-<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/php.png" />
-<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/laravel.webp" />
-<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/codeigniter.webp" />
-<img align="" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/wordpress.png" />
 
 <br />
 
 #### 💻 Frontend
-<img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/angular.png" />
 <img align="left" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/react.png" />
 <img align="" height="60px" src="https://raw.githubusercontent.com/devtarun/devtarun/master/assets/jquery.png" />
 
